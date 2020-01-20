@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579460989 source:c:\users\ethem\desktop\c programming\35-) sorting_array3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
